@@ -1,3 +1,4 @@
 robotframework==6.0.2
+robotframework-requests
 
 # You may have to add more libraries
